@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
 
   s.name         = "LylSpecs"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "just repo create."
   s.description  = <<-DESC
-		私有pod测试
+		创建组件， 实现组件化开发的demo
                    DESC
 
   s.homepage     = "https://github.com/wasterd/LylSpecs"
